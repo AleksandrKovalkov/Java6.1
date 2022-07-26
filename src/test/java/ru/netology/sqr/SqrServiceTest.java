@@ -1,6 +1,7 @@
-package ru.netology.JavaCycles;
+package ru.netology.sqr;
 
 import org.junit.jupiter.api.Test;
+import ru.netology.sqr.SQRService;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

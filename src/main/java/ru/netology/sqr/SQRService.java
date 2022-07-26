@@ -1,4 +1,4 @@
-package ru.netology.JavaCycles;
+package ru.netology.sqr;
 
 public class SQRService {
     public int calculateSQR(int minNumber, int maxNumber) {
